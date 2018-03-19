@@ -16,6 +16,8 @@ baseurl:          # the optional subpath of your site, e.g. "/blog"
 author:
   name:           'Bowon Kim'
   url:            https://www.instagram.com/kim_bo_1/
+  
+disqus-shortname: boribap
 
 paginate:         5
 # paginate_path:    '/page:num'
