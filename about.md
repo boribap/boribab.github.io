@@ -3,7 +3,7 @@ layout: page
 title: About
 sidebar_link: true
 ---
-
+![boripap](./favicon.png)
 <p class="message">
   Hi! I am a university student who is interested in various IT technologies.
 </p>
