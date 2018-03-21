@@ -3,4 +3,5 @@ layout: category
 title: Review
 ---
 
-Another sample category page.
+Review category for Books, Movies, etc...
+
