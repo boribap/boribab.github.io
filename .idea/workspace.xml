@@ -2,8 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="5dabcc73-7a28-416e-b038-0677748f9994" name="Default" comment="">
-      <change beforePath="" afterPath="$PROJECT_DIR$/_posts/2018-03-27-review-동물농.md" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change beforePath="$PROJECT_DIR$/about.md" afterPath="$PROJECT_DIR$/about.md" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -20,7 +19,9 @@
             <state split_layout="SPLIT">
               <first_editor relative-caret-position="432">
                 <caret line="24" column="0" lean-forward="true" selection-start-line="24" selection-start-column="0" selection-end-line="24" selection-end-column="0" />
-                <folding />
+                <folding>
+                  <marker date="1522207668366" expanded="true" signature="238:557" ph="h2: ####소개" />
+                </folding>
               </first_editor>
               <second_editor />
             </state>
@@ -31,8 +32,8 @@
         <entry file="file://$PROJECT_DIR$/_posts/2018-03-27-review-동물농.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
-              <first_editor relative-caret-position="776">
-                <caret line="82" column="0" lean-forward="true" selection-start-line="82" selection-start-column="0" selection-end-line="82" selection-end-column="0" />
+              <first_editor relative-caret-position="344">
+                <caret line="58" column="20" lean-forward="true" selection-start-line="58" selection-start-column="20" selection-end-line="58" selection-end-column="20" />
                 <folding />
               </first_editor>
               <second_editor />
@@ -233,12 +234,12 @@
       <updated>1521611833182</updated>
       <workItem from="1521611836416" duration="623000" />
       <workItem from="1522138454814" duration="1236000" />
-      <workItem from="1522144787589" duration="6876000" />
+      <workItem from="1522144787589" duration="7019000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="8735000" />
+    <option name="totallyTimeSpent" value="8878000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="176" y="58" width="1682" height="1000" extended-state="0" />
@@ -288,7 +289,9 @@
         <state split_layout="SPLIT">
           <first_editor relative-caret-position="0">
             <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-            <folding />
+            <folding>
+              <marker date="1522207668366" expanded="true" signature="238:557" ph="h2: ####소개" />
+            </folding>
           </first_editor>
           <second_editor />
         </state>
@@ -303,7 +306,9 @@
         <state split_layout="SPLIT">
           <first_editor relative-caret-position="432">
             <caret line="24" column="0" lean-forward="true" selection-start-line="24" selection-start-column="0" selection-end-line="24" selection-end-column="0" />
-            <folding />
+            <folding>
+              <marker date="1522207668366" expanded="true" signature="238:557" ph="h2: ####소개" />
+            </folding>
           </first_editor>
           <second_editor />
         </state>
@@ -312,8 +317,8 @@
     <entry file="file://$PROJECT_DIR$/_posts/2018-03-27-review-동물농.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
-          <first_editor relative-caret-position="776">
-            <caret line="82" column="0" lean-forward="true" selection-start-line="82" selection-start-column="0" selection-end-line="82" selection-end-column="0" />
+          <first_editor relative-caret-position="344">
+            <caret line="58" column="20" lean-forward="true" selection-start-line="58" selection-start-column="20" selection-end-line="58" selection-end-column="20" />
             <folding />
           </first_editor>
           <second_editor />
