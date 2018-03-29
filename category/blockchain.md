@@ -1,6 +1,6 @@
 ---
 layout: category
-title: Block Chain
+title: BlockChain
 ---
 
 About Block Chain
